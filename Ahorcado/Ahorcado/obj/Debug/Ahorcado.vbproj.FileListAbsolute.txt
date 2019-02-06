@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\Alumno\Desktop\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\Alumno\Desktop\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\Alumno\Desktop\Ahorcado\Ahorcado\bin\Debug\Ahorcado.xml
+C:\Users\Alumno\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.vbprojAssemblyReference.cache
+C:\Users\Alumno\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Resources.resources
+C:\Users\Alumno\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.vbproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\Alumno\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.xml
+C:\Users\Alumno\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
